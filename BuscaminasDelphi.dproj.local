@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/22 09:22:56.000.517,=C:\Users\sliotta\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/22 09:23:11.000.625,=C:\Users\sliotta\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/04/22 09:45:26.000.008,C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\U_Button.pas=C:\Users\sliotta\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/04/22 09:45:38.000.611,C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\U_FrmMain.dfm=C:\Users\sliotta\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/04/22 09:45:38.000.611,C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\U_FrmMain.pas=C:\Users\sliotta\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/22 09:45:44.000.363,C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\BuscaminasDelphi.dproj=C:\Users\sliotta\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/04/22 09:46:51.000.365,=C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\Unit1.pas</Transaction>
+    <Transaction>2019/04/22 09:46:59.000.441,C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\U_Game.pas=C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\Unit1.pas</Transaction>
+    <Transaction>2019/04/22 10:52:26.000.696,=C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\Unit1.pas</Transaction>
+    <Transaction>2019/04/23 08:36:13.442,=C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\Unit2.pas</Transaction>
+    <Transaction>2019/04/23 08:47:42.921,C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\TImmageButton.pas=C:\Users\sliotta\Documents\Seb\Proyect\BuscaminasDelphi\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
